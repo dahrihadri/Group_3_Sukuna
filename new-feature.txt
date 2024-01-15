@@ -1,1 +1,1 @@
-Commit new file
+my new feature text
